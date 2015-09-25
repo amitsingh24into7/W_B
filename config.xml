@@ -1,17 +1,4 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @bharath3
- Watch 281
-  Star 3,412
-  Fork 6,683 phonegap/phonegap-start
-Branch: master  phonegap-start/www/config.xml
-@macdonstmacdonst on Jul 8 Issue #182: Update config.xml android-minSdkVersion
-13 contributors @mwbrooks @wildabeast @tavispa @hollyschinsky @VitaliiBlagodir @hardeep @macdonst @phoob @aserdiuk @manuganji @ianosullivan @themightychris @gregorypratt
-RawBlameHistory     138 lines (119 sloc)  8.61 KB
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
